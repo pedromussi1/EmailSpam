@@ -9,9 +9,40 @@
 
 <h2>Description</h2>
 
+
+
 <p>
 1. Introduction
 The goal of this project is to develop an email classification system that can automatically classify emails as either "spam" or "ham" (non-spam). This system will help users manage their email inbox more efficiently by automatically filtering out unwanted spam emails.</p>
+
+
+<h2>Languages and Utilities Used</h2>
+
+<ul>
+  <li><b>Python</b></li>
+  <li><b>Pandas</b></li>
+  <li><b>scikit-learn (sklearn)</b></li>
+  <li><b>NLTK (Natural Language Toolkit)</b></li>
+  <li><b>Matplotlib</b></li>
+  <li><b>Seaborn</b></li>
+  <li><b>NumPy</b></li>
+</ul>
+
+<h2>Environments Used</h2>
+
+<ul>
+  <li><b>Windows 11</b></li>
+  <li><b>Jupyter Notebook</b></li>
+</ul>
+
+<h2>
+<a href="https://github.com/pedromussi1/PernTodo/blob/main/READCODE.md">Code Breakdown Here!</a>
+</h2>
+
+
+<h2>Project Walk-through</h2>
+
+<p>Download the files and save them on the same directory. Open the email_spam.ipynb file on a software such as Jupyter Notebook and Run All. Make sure to install in your machine all the necessary libraries. </p>
 
 <p>
 2. Problem Statement
@@ -66,33 +97,6 @@ Continuous monitoring: Implement monitoring mechanisms to track the model's perf
 In conclusion, the email classification system developed in this project demonstrates the effectiveness of machine learning in automating the classification of spam and ham emails. By preprocessing the text data, training a logistic regression model, and evaluating its performance using various metrics, we have created a reliable system for email classification. Further improvements and future considerations will continue to enhance the system's accuracy and usability in managing email communication.
 </p>
 
-<h2>Languages and Utilities Used</h2>
-
-<ul>
-  <li><b>Python</b></li>
-  <li><b>Pandas</b></li>
-  <li><b>scikit-learn (sklearn)</b></li>
-  <li><b>NLTK (Natural Language Toolkit)</b></li>
-  <li><b>Matplotlib</b></li>
-  <li><b>Seaborn</b></li>
-  <li><b>NumPy</b></li>
-</ul>
-
-<h2>Environments Used</h2>
-
-<ul>
-  <li><b>Windows 11</b></li>
-  <li><b>Jupyter Notebook</b></li>
-</ul>
-
-<h2>
-<a href="https://github.com/pedromussi1/PernTodo/blob/main/READCODE.md">Code Breakdown Here!</a>
-</h2>
-
-
-<h2>Project Walk-through</h2>
-
-<p>Download the files and save them on the same directory. Open the email_spam.ipynb on a software such as Jupyter Notebook and Run All. Make sure to install in your machine all the necessary libraries. </p>
 
 <h3>Adding Items to the List</h3>
 
