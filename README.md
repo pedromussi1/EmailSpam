@@ -9,12 +9,7 @@
 
 <h2>Description</h2>
 
-
-
-<p>
-1. Introduction
-The goal of this project is to develop an email classification system that can automatically classify emails as either "spam" or "ham" (non-spam). This system will help users manage their email inbox more efficiently by automatically filtering out unwanted spam emails.</p>
-
+<p>The goal of this project is to develop an email classification system that can automatically classify emails as either "spam" or "ham" (non-spam). This system will help users manage their email inbox more efficiently by automatically filtering out unwanted spam emails.</p>
 
 <h2>Languages and Utilities Used</h2>
 
@@ -45,40 +40,40 @@ The goal of this project is to develop an email classification system that can a
 <p>Download the files and save them on the same directory. Open the email_spam.ipynb file on a software such as Jupyter Notebook and Run All. Make sure to install in your machine all the necessary libraries. </p>
 
 <p>
-2. Problem Statement
+1. Problem Statement
 Email spam continues to be a significant issue, cluttering inboxes and potentially leading to security threats. The main challenge is to accurately distinguish between legitimate emails (ham) and unsolicited spam emails. Therefore, the objective is to build a machine learning model that can effectively classify emails based on their content.
 </p>
 
 <p>
-3. Data Description
+2. Data Description
 The dataset used for this project consists of labeled email data with two classes: "spam" and "ham". Each email is represented as a text message. The dataset includes features such as the email message and its corresponding category (spam or ham).
 </p>
 
 <p>
-4. Methodology
+3. Methodology
 
 <p>
-4.1 Data Preprocessing
+3.1 Data Preprocessing
 Missing values were handled by replacing them with empty strings.
 Text data preprocessing involved converting text to lowercase, removing punctuation, and removing stop words using NLTK (Natural Language Toolkit).
 The dataset was split into training and testing sets using a 80-20 split ratio.
 </p>
 
 <p>
-4.2 Model Training
+3.2 Model Training
 Text data was transformed into numerical features using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization.
 A logistic regression model was chosen for its simplicity and effectiveness in text classification tasks.
 The model was trained using the training data, consisting of the TF-IDF transformed features and corresponding target labels.
 </p>
 
 <p>
-4.3 Model Evaluation
+3.3 Model Evaluation
 The trained model's performance was evaluated using various evaluation metrics, including accuracy, precision, recall, and F1-score.
 Additionally, a confusion matrix was plotted using seaborn to visualize the model's performance in terms of true positives, false positives, true negatives, and false negatives.
 </p>
 
 <p>
-5. Results
+4. Results
 The logistic regression model achieved an accuracy of X% on the training data and Y% on the test data.
 The classification report provided insights into the model's performance across different classes, including precision, recall, and F1-score.
 The confusion matrix visualization helped to identify the model's strengths and weaknesses in classifying spam and ham emails.
