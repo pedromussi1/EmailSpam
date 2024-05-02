@@ -69,17 +69,20 @@ In conclusion, the email classification system developed in this project demonst
 <h2>Languages and Utilities Used</h2>
 
 <ul>
-  <li><b>PostgreSQL</b></li>
-  <li><b>Express.js</b></li>
-  <li><b>React</b></li>
-  <li><b>Node.js</b></li>
+  <li><b>Python</b></li>
+  <li><b>Pandas</b></li>
+  <li><b>scikit-learn (sklearn)</b></li>
+  <li><b>NLTK (Natural Language Toolkit)</b></li>
+  <li><b>Matplotlib</b></li>
+  <li><b>Seaborn</b></li>
+  <li><b>NumPy</b></li>
 </ul>
 
 <h2>Environments Used</h2>
 
 <ul>
   <li><b>Windows 11</b></li>
-  <li><b>Visual Studio Code</b></li>
+  <li><b>Jupyter Notebook</b></li>
 </ul>
 
 <h2>
