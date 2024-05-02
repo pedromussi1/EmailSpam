@@ -49,6 +49,10 @@ Email spam continues to be a significant issue, cluttering inboxes and potential
 The dataset used for this project consists of labeled email data with two classes: "spam" and "ham". Each email is represented as a text message. The dataset includes features such as the email message and its corresponding category (spam or ham).
 </p>
 
+<p align="center">
+  <kbd><img src="https://i.imgur.com/Kuhy6Hr.png" alt="DeletingItem"></kbd>
+</p>
+
 <p>
 3. Methodology
 
@@ -91,42 +95,3 @@ Continuous monitoring: Implement monitoring mechanisms to track the model's perf
 7. Conclusion
 In conclusion, the email classification system developed in this project demonstrates the effectiveness of machine learning in automating the classification of spam and ham emails. By preprocessing the text data, training a logistic regression model, and evaluating its performance using various metrics, we have created a reliable system for email classification. Further improvements and future considerations will continue to enhance the system's accuracy and usability in managing email communication.
 </p>
-
-
-<h3>Adding Items to the List</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/6yWAVK2.png" alt="AddingItem"></kbd>
-</p>
-
-<p>The user can write the name of a new item they want to add to the list and click on "add" to add that item. In this example I chose to add "Need to buy groceries" to the list. You can see on the second image below that the item has been added to the list.</p>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/EffXnKy.png" alt="AddingItem1"></kbd>
-</p>
-
-<h3>Deleting an item from the list</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/Kuhy6Hr.png" alt="DeletingItem"></kbd>
-</p>
-
-<p>In case the user wants to delete an item for the list, they can simply click on the button "delete" next to the item they want to delete. In this example, I chose to delete the item "wash the dishes".</p>
-
-<h3>Editing an item on the list</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/NEnmtvj.png" alt="Level 2"></kbd>
-</p>
-
-<p>In case the user wants to edit an item on the list, they can press the button "edit" next to the item they want to edit. In this example I chose to edit the "I need to clean my car" item on the list and change it to "I need to buy toothpaste".</p>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/8orPkgC.png" alt="Level 3"></kbd>
-</p>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/ULVNaP3.png" alt="Level 4"></kbd>
-</p>
-
-<p>You can see now that the item has been changed and it is displayed correctly on the list.</p>
