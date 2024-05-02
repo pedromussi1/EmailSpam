@@ -92,6 +92,8 @@ In conclusion, the email classification system developed in this project demonst
 
 <h2>Project Walk-through</h2>
 
+<p>Download the files and save them on the same directory. Open the email_spam.ipynb on a software such as Jupyter Notebook and Run All. Make sure to install in your machine all the necessary libraries. </p>
+
 <h3>Adding Items to the List</h3>
 
 <p align="center">
