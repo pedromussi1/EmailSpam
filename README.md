@@ -9,9 +9,8 @@
 
 <h2>Description</h2>
 
-<p>
-1. Introduction
-The goal of this project is to develop an email classification system that can automatically classify emails as either "spam" or "ham" (non-spam). This system will help users manage their email inbox more efficiently by automatically filtering out unwanted spam emails.
+<p>1. Introduction
+The goal of this project is to develop an email classification system that can automatically classify emails as either "spam" or "ham" (non-spam). This system will help users manage their email inbox more efficiently by automatically filtering out unwanted spam emails.</p>
 
 2. Problem Statement
 Email spam continues to be a significant issue, cluttering inboxes and potentially leading to security threats. The main challenge is to accurately distinguish between legitimate emails (ham) and unsolicited spam emails. Therefore, the objective is to build a machine learning model that can effectively classify emails based on their content.
@@ -39,7 +38,9 @@ The confusion matrix visualization helped to identify the model's strengths and 
 Hyperparameter tuning: Experiment with different hyperparameters of the logistic regression model to improve its performance further.
 Feature engineering: Explore additional text preprocessing techniques and feature extraction methods to enhance the model's understanding of the email content.
 Model deployment: Deploy the trained model as a service to classify emails in real-time and integrate it into existing email systems for practical use.
-Continuous monitoring: Implement monitoring mechanisms to track the model's performance over time and adapt to changes in email patterns and spam tactics.</p>
+Continuous monitoring: Implement monitoring mechanisms to track the model's performance over time and adapt to changes in email patterns and spam tactics.
+
+
 
 <h2>Languages and Utilities Used</h2>
 
