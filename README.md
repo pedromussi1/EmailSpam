@@ -9,7 +9,8 @@
 
 <h2>Description</h2>
 
-<p>1. Introduction
+<p>
+1. Introduction
 The goal of this project is to develop an email classification system that can automatically classify emails as either "spam" or "ham" (non-spam). This system will help users manage their email inbox more efficiently by automatically filtering out unwanted spam emails.
 
 2. Problem Statement
