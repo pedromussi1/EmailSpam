@@ -1,11 +1,9 @@
 
 <h1 align="center">Email Classification System</h1>
 
-
-
-<a href="https://www.youtube.com/watch?v=9N2W9QBaXfw">
-
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=q-6X0WgZy_E"><img src="https://i.imgur.com/ayHxBCT.gif" alt="YouTube Demonstration"></a>
+</p>
 
 <h2>Description</h2>
 
