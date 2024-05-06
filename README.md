@@ -2,8 +2,9 @@
 <h1 align="center">Email Classification System</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=q-6X0WgZy_E"><img src="https://i.imgur.com/ayHxBCT.gif" alt="YouTube Demonstration"></a>
+  <a href="https://www.youtube.com/watch?v=q-6X0WgZy_E"><img src="https://i.imgur.com/zVmAeqo.gif" alt="YouTube Demonstration" width="800"></a>
 </p>
+
 
 <h2>Description</h2>
 
