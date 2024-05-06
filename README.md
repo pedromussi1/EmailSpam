@@ -57,7 +57,7 @@ The dataset used for this project consists of labeled email data with two classe
 3. Methodology
 
 <p>
-3.1 Data Preprocessing
+3.1 Data Preprocessing:
 Missing values were handled by replacing them with empty strings.
 Text data preprocessing involved converting text to lowercase, removing punctuation, and removing stop words using NLTK (Natural Language Toolkit).
 The dataset was split into training and testing sets using a 80-20 split ratio.
@@ -77,7 +77,7 @@ The dataset was split into training and testing sets using a 80-20 split ratio.
 
 
 <p>
-3.2 Model Training
+3.2 Model Training:
 Text data was transformed into numerical features using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization.
 A logistic regression model was chosen for its simplicity and effectiveness in text classification tasks.
 The model was trained using the training data, consisting of the TF-IDF transformed features and corresponding target labels.
@@ -92,7 +92,7 @@ The model was trained using the training data, consisting of the TF-IDF transfor
 </p>
 
 <p>
-3.3 Model Evaluation
+3.3 Model Evaluation:
 The trained model's performance was evaluated using various evaluation metrics, including accuracy, precision, recall, and F1-score.
 Additionally, a confusion matrix was plotted using seaborn to visualize the model's performance in terms of true positives, false positives, true negatives, and false negatives.
 </p>
@@ -103,7 +103,7 @@ Additionally, a confusion matrix was plotted using seaborn to visualize the mode
 
 
 <p>
-4. Results
+4. Results:
 The logistic regression model achieved an accuracy of X% on the training data and Y% on the test data.
 The classification report provided insights into the model's performance across different classes, including precision, recall, and F1-score.
 The confusion matrix visualization helped to identify the model's strengths and weaknesses in classifying spam and ham emails.
@@ -114,7 +114,7 @@ The confusion matrix visualization helped to identify the model's strengths and 
 </p>
 
 <p>
-5. Future Considerations
+5. Future Considerations:
 Hyperparameter tuning: Experiment with different hyperparameters of the logistic regression model to improve its performance further.
 Feature engineering: Explore additional text preprocessing techniques and feature extraction methods to enhance the model's understanding of the email content.
 Model deployment: Deploy the trained model as a service to classify emails in real-time and integrate it into existing email systems for practical use.
@@ -122,6 +122,6 @@ Continuous monitoring: Implement monitoring mechanisms to track the model's perf
 </p>
 
 <p>
-6. Conclusion
+6. Conclusion:
 In conclusion, the email classification system developed in this project demonstrates the effectiveness of machine learning in automating the classification of spam and ham emails. By preprocessing the text data, training a logistic regression model, and evaluating its performance using various metrics, we have created a reliable system for email classification. Further improvements and future considerations will continue to enhance the system's accuracy and usability in managing email communication.
 </p>
